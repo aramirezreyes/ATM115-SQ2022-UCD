@@ -1,4 +1,4 @@
-name: env
+name: atm115
 channels:
   - conda-forge
   - defaults
